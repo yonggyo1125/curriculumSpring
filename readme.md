@@ -2,6 +2,9 @@
 - 문의 답변 및 공지사항 전달을 위해 오픈채팅을 개설합니다.
 - [코리아IT인천 - 웹개발(주말반)](https://open.kakao.com/o/gxuxLKwe)
 
+## 스터디 및 과제 그룹 신청
+- [신청URL로 이동하기](http://yonggyo.com:3001/board/list/team)
+
 # 스프링 & 스프링 부트1 (24시간)
 * 1주차(6h)
 	- 실습환경 구축 
