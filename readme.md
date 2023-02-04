@@ -5,6 +5,8 @@
 ## 스터디 및 과제 그룹 신청
 - [신청URL로 이동하기](http://yonggyo.com:3001/board/list/team)
 -->
+## 자바스크립트 보강 - 웹 브라우저 객체
+- [웹브라우저 객체 동영상 ](https://drive.google.com/drive/folders/1W2E5WST2hX6-moe5UWeUn7WZtVR6PhZf?usp=share_link)
 
 # 스프링 & 스프링 부트1 (24시간)
 * 1주차(6h) - HTML, CSS
